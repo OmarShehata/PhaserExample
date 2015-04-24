@@ -6,3 +6,5 @@ This is a simple game made with the Phaser (http://phaser.io/) HTML5 framework f
 Just double click on the server bat file (or type in the command if you're a non-windows user) to start up the server. You can then access the game through: 127.0.0.1:8000 
 
 Make sure you have Python installed!
+
+[See a live demo here!](http://4urentertainment.org/storage/carlwars/)
