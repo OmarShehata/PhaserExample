@@ -1,5 +1,5 @@
 # PhaserExample
-This is a simple game made with the Phaser (http://phaser.io/) HTMlL5 framework for the CarlHacks (http://carlhacks.io/) 2015 Hackathon. For a barebones copy of a Phaser project, see: [here](https://github.com/OmarShehata/BasicPhaser)
+This is a simple game made with the Phaser (http://phaser.io/) HTML5 framework for the CarlHacks (http://carlhacks.io/) 2015 Hackathon. For a barebones copy of a Phaser project, see: [here](https://github.com/OmarShehata/BasicPhaser)
 
 ## Getting Started
 
