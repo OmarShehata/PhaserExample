@@ -7,4 +7,4 @@ Just double click on the server bat file (or type in the command if you're a non
 
 Make sure you have Python installed!
 
-[See a live demo here!](http://4urentertainment.org/storage/carlwars/)
+[See a live demo here!](http://omarshehata.me/html/carlwars/)
